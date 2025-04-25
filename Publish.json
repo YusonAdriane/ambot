@@ -1,0 +1,10 @@
+{
+    "publish": [{
+            "Venue": "Computer Laboratory 4",
+            "Event": "Concert Band",
+            "Host": "St. Peter College of Toril",
+            "From": "7:00 AM",
+            "To": "10:00 AM",
+            "Date": "04\/20\/2005"
+        }]
+}
